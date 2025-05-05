@@ -14,7 +14,7 @@ Follow these steps to set up and start the project:
 Clone the repository to your local machine using Git:
 #### Download the Project
 ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone git@github.com:William-V-CCC/Group-A.git
    ```
    #### 2. Install Packages
    Navigate to the appropriate folder and install dependencies:
