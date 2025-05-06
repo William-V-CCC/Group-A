@@ -7,62 +7,62 @@
 	objects = {
 
 /* Begin PBXContainerItemProxy section */
-		CC3033692DCA4FD0001C6935 /* PBXContainerItemProxy */ = {
+		CC75F9472DCA5428003543FA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = CC3033532DCA4FCE001C6935 /* Project object */;
+			containerPortal = CC75F9312DCA5426003543FA /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = CC30335A2DCA4FCE001C6935;
-			remoteInfo = "Badging Project";
+			remoteGlobalIDString = CC75F9382DCA5426003543FA;
+			remoteInfo = IOSApp;
 		};
-		CC3033732DCA4FD0001C6935 /* PBXContainerItemProxy */ = {
+		CC75F9512DCA5428003543FA /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = CC3033532DCA4FCE001C6935 /* Project object */;
+			containerPortal = CC75F9312DCA5426003543FA /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = CC30335A2DCA4FCE001C6935;
-			remoteInfo = "Badging Project";
+			remoteGlobalIDString = CC75F9382DCA5426003543FA;
+			remoteInfo = IOSApp;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		CC30335B2DCA4FCE001C6935 /* Badging Project.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Badging Project.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CC3033682DCA4FD0001C6935 /* Badging ProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Badging ProjectTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CC3033722DCA4FD0001C6935 /* Badging ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Badging ProjectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC75F9392DCA5426003543FA /* IOSApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IOSApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC75F9462DCA5428003543FA /* IOSAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IOSAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CC75F9502DCA5428003543FA /* IOSAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IOSAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		CC30335D2DCA4FCE001C6935 /* Badging Project */ = {
+		CC75F93B2DCA5426003543FA /* IOSApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Badging Project";
+			path = IOSApp;
 			sourceTree = "<group>";
 		};
-		CC30336B2DCA4FD0001C6935 /* Badging ProjectTests */ = {
+		CC75F9492DCA5428003543FA /* IOSAppTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Badging ProjectTests";
+			path = IOSAppTests;
 			sourceTree = "<group>";
 		};
-		CC3033752DCA4FD0001C6935 /* Badging ProjectUITests */ = {
+		CC75F9532DCA5428003543FA /* IOSAppUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Badging ProjectUITests";
+			path = IOSAppUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		CC3033582DCA4FCE001C6935 /* Frameworks */ = {
+		CC75F9362DCA5426003543FA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CC3033652DCA4FD0001C6935 /* Frameworks */ = {
+		CC75F9432DCA5428003543FA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CC30336F2DCA4FD0001C6935 /* Frameworks */ = {
+		CC75F94D2DCA5428003543FA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,22 +72,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		CC3033522DCA4FCE001C6935 = {
+		CC75F9302DCA5426003543FA = {
 			isa = PBXGroup;
 			children = (
-				CC30335D2DCA4FCE001C6935 /* Badging Project */,
-				CC30336B2DCA4FD0001C6935 /* Badging ProjectTests */,
-				CC3033752DCA4FD0001C6935 /* Badging ProjectUITests */,
-				CC30335C2DCA4FCE001C6935 /* Products */,
+				CC75F93B2DCA5426003543FA /* IOSApp */,
+				CC75F9492DCA5428003543FA /* IOSAppTests */,
+				CC75F9532DCA5428003543FA /* IOSAppUITests */,
+				CC75F93A2DCA5426003543FA /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		CC30335C2DCA4FCE001C6935 /* Products */ = {
+		CC75F93A2DCA5426003543FA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CC30335B2DCA4FCE001C6935 /* Badging Project.app */,
-				CC3033682DCA4FD0001C6935 /* Badging ProjectTests.xctest */,
-				CC3033722DCA4FD0001C6935 /* Badging ProjectUITests.xctest */,
+				CC75F9392DCA5426003543FA /* IOSApp.app */,
+				CC75F9462DCA5428003543FA /* IOSAppTests.xctest */,
+				CC75F9502DCA5428003543FA /* IOSAppUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,134 +95,134 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CC30335A2DCA4FCE001C6935 /* Badging Project */ = {
+		CC75F9382DCA5426003543FA /* IOSApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CC30337C2DCA4FD0001C6935 /* Build configuration list for PBXNativeTarget "Badging Project" */;
+			buildConfigurationList = CC75F95A2DCA5428003543FA /* Build configuration list for PBXNativeTarget "IOSApp" */;
 			buildPhases = (
-				CC3033572DCA4FCE001C6935 /* Sources */,
-				CC3033582DCA4FCE001C6935 /* Frameworks */,
-				CC3033592DCA4FCE001C6935 /* Resources */,
+				CC75F9352DCA5426003543FA /* Sources */,
+				CC75F9362DCA5426003543FA /* Frameworks */,
+				CC75F9372DCA5426003543FA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				CC30335D2DCA4FCE001C6935 /* Badging Project */,
+				CC75F93B2DCA5426003543FA /* IOSApp */,
 			);
-			name = "Badging Project";
+			name = IOSApp;
 			packageProductDependencies = (
 			);
-			productName = "Badging Project";
-			productReference = CC30335B2DCA4FCE001C6935 /* Badging Project.app */;
+			productName = IOSApp;
+			productReference = CC75F9392DCA5426003543FA /* IOSApp.app */;
 			productType = "com.apple.product-type.application";
 		};
-		CC3033672DCA4FD0001C6935 /* Badging ProjectTests */ = {
+		CC75F9452DCA5428003543FA /* IOSAppTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CC30337F2DCA4FD0001C6935 /* Build configuration list for PBXNativeTarget "Badging ProjectTests" */;
+			buildConfigurationList = CC75F95D2DCA5428003543FA /* Build configuration list for PBXNativeTarget "IOSAppTests" */;
 			buildPhases = (
-				CC3033642DCA4FD0001C6935 /* Sources */,
-				CC3033652DCA4FD0001C6935 /* Frameworks */,
-				CC3033662DCA4FD0001C6935 /* Resources */,
+				CC75F9422DCA5428003543FA /* Sources */,
+				CC75F9432DCA5428003543FA /* Frameworks */,
+				CC75F9442DCA5428003543FA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				CC30336A2DCA4FD0001C6935 /* PBXTargetDependency */,
+				CC75F9482DCA5428003543FA /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				CC30336B2DCA4FD0001C6935 /* Badging ProjectTests */,
+				CC75F9492DCA5428003543FA /* IOSAppTests */,
 			);
-			name = "Badging ProjectTests";
+			name = IOSAppTests;
 			packageProductDependencies = (
 			);
-			productName = "Badging ProjectTests";
-			productReference = CC3033682DCA4FD0001C6935 /* Badging ProjectTests.xctest */;
+			productName = IOSAppTests;
+			productReference = CC75F9462DCA5428003543FA /* IOSAppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		CC3033712DCA4FD0001C6935 /* Badging ProjectUITests */ = {
+		CC75F94F2DCA5428003543FA /* IOSAppUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CC3033822DCA4FD0001C6935 /* Build configuration list for PBXNativeTarget "Badging ProjectUITests" */;
+			buildConfigurationList = CC75F9602DCA5428003543FA /* Build configuration list for PBXNativeTarget "IOSAppUITests" */;
 			buildPhases = (
-				CC30336E2DCA4FD0001C6935 /* Sources */,
-				CC30336F2DCA4FD0001C6935 /* Frameworks */,
-				CC3033702DCA4FD0001C6935 /* Resources */,
+				CC75F94C2DCA5428003543FA /* Sources */,
+				CC75F94D2DCA5428003543FA /* Frameworks */,
+				CC75F94E2DCA5428003543FA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				CC3033742DCA4FD0001C6935 /* PBXTargetDependency */,
+				CC75F9522DCA5428003543FA /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				CC3033752DCA4FD0001C6935 /* Badging ProjectUITests */,
+				CC75F9532DCA5428003543FA /* IOSAppUITests */,
 			);
-			name = "Badging ProjectUITests";
+			name = IOSAppUITests;
 			packageProductDependencies = (
 			);
-			productName = "Badging ProjectUITests";
-			productReference = CC3033722DCA4FD0001C6935 /* Badging ProjectUITests.xctest */;
+			productName = IOSAppUITests;
+			productReference = CC75F9502DCA5428003543FA /* IOSAppUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		CC3033532DCA4FCE001C6935 /* Project object */ = {
+		CC75F9312DCA5426003543FA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1630;
 				LastUpgradeCheck = 1630;
 				TargetAttributes = {
-					CC30335A2DCA4FCE001C6935 = {
+					CC75F9382DCA5426003543FA = {
 						CreatedOnToolsVersion = 16.3;
 					};
-					CC3033672DCA4FD0001C6935 = {
+					CC75F9452DCA5428003543FA = {
 						CreatedOnToolsVersion = 16.3;
-						TestTargetID = CC30335A2DCA4FCE001C6935;
+						TestTargetID = CC75F9382DCA5426003543FA;
 					};
-					CC3033712DCA4FD0001C6935 = {
+					CC75F94F2DCA5428003543FA = {
 						CreatedOnToolsVersion = 16.3;
-						TestTargetID = CC30335A2DCA4FCE001C6935;
+						TestTargetID = CC75F9382DCA5426003543FA;
 					};
 				};
 			};
-			buildConfigurationList = CC3033562DCA4FCE001C6935 /* Build configuration list for PBXProject "Badging Project" */;
+			buildConfigurationList = CC75F9342DCA5426003543FA /* Build configuration list for PBXProject "IOSApp" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = CC3033522DCA4FCE001C6935;
+			mainGroup = CC75F9302DCA5426003543FA;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = CC30335C2DCA4FCE001C6935 /* Products */;
+			productRefGroup = CC75F93A2DCA5426003543FA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CC30335A2DCA4FCE001C6935 /* Badging Project */,
-				CC3033672DCA4FD0001C6935 /* Badging ProjectTests */,
-				CC3033712DCA4FD0001C6935 /* Badging ProjectUITests */,
+				CC75F9382DCA5426003543FA /* IOSApp */,
+				CC75F9452DCA5428003543FA /* IOSAppTests */,
+				CC75F94F2DCA5428003543FA /* IOSAppUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		CC3033592DCA4FCE001C6935 /* Resources */ = {
+		CC75F9372DCA5426003543FA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CC3033662DCA4FD0001C6935 /* Resources */ = {
+		CC75F9442DCA5428003543FA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CC3033702DCA4FD0001C6935 /* Resources */ = {
+		CC75F94E2DCA5428003543FA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -232,21 +232,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		CC3033572DCA4FCE001C6935 /* Sources */ = {
+		CC75F9352DCA5426003543FA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CC3033642DCA4FD0001C6935 /* Sources */ = {
+		CC75F9422DCA5428003543FA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		CC30336E2DCA4FD0001C6935 /* Sources */ = {
+		CC75F94C2DCA5428003543FA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -256,20 +256,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		CC30336A2DCA4FD0001C6935 /* PBXTargetDependency */ = {
+		CC75F9482DCA5428003543FA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = CC30335A2DCA4FCE001C6935 /* Badging Project */;
-			targetProxy = CC3033692DCA4FD0001C6935 /* PBXContainerItemProxy */;
+			target = CC75F9382DCA5426003543FA /* IOSApp */;
+			targetProxy = CC75F9472DCA5428003543FA /* PBXContainerItemProxy */;
 		};
-		CC3033742DCA4FD0001C6935 /* PBXTargetDependency */ = {
+		CC75F9522DCA5428003543FA /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = CC30335A2DCA4FCE001C6935 /* Badging Project */;
-			targetProxy = CC3033732DCA4FD0001C6935 /* PBXContainerItemProxy */;
+			target = CC75F9382DCA5426003543FA /* IOSApp */;
+			targetProxy = CC75F9512DCA5428003543FA /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		CC30337A2DCA4FD0001C6935 /* Debug */ = {
+		CC75F9582DCA5428003543FA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -332,7 +332,7 @@
 			};
 			name = Debug;
 		};
-		CC30337B2DCA4FD0001C6935 /* Release */ = {
+		CC75F9592DCA5428003543FA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -388,7 +388,7 @@
 			};
 			name = Release;
 		};
-		CC30337D2DCA4FD0001C6935 /* Debug */ = {
+		CC75F95B2DCA5428003543FA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -407,7 +407,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Molly-Norman.Badging-Project";
+				PRODUCT_BUNDLE_IDENTIFIER = "Molly-Norman.IOSApp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -415,7 +415,7 @@
 			};
 			name = Debug;
 		};
-		CC30337E2DCA4FD0001C6935 /* Release */ = {
+		CC75F95C2DCA5428003543FA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -434,7 +434,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Molly-Norman.Badging-Project";
+				PRODUCT_BUNDLE_IDENTIFIER = "Molly-Norman.IOSApp";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -442,7 +442,7 @@
 			};
 			name = Release;
 		};
-		CC3033802DCA4FD0001C6935 /* Debug */ = {
+		CC75F95E2DCA5428003543FA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -451,16 +451,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Molly-Norman.Badging-ProjectTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Molly-Norman.IOSAppTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Badging Project.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Badging Project";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IOSApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/IOSApp";
 			};
 			name = Debug;
 		};
-		CC3033812DCA4FD0001C6935 /* Release */ = {
+		CC75F95F2DCA5428003543FA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -469,87 +469,87 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Molly-Norman.Badging-ProjectTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Molly-Norman.IOSAppTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Badging Project.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Badging Project";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IOSApp.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/IOSApp";
 			};
 			name = Release;
 		};
-		CC3033832DCA4FD0001C6935 /* Debug */ = {
+		CC75F9612DCA5428003543FA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Molly-Norman.Badging-ProjectUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Molly-Norman.IOSAppUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Badging Project";
+				TEST_TARGET_NAME = IOSApp;
 			};
 			name = Debug;
 		};
-		CC3033842DCA4FD0001C6935 /* Release */ = {
+		CC75F9622DCA5428003543FA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "Molly-Norman.Badging-ProjectUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "Molly-Norman.IOSAppUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Badging Project";
+				TEST_TARGET_NAME = IOSApp;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CC3033562DCA4FCE001C6935 /* Build configuration list for PBXProject "Badging Project" */ = {
+		CC75F9342DCA5426003543FA /* Build configuration list for PBXProject "IOSApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CC30337A2DCA4FD0001C6935 /* Debug */,
-				CC30337B2DCA4FD0001C6935 /* Release */,
+				CC75F9582DCA5428003543FA /* Debug */,
+				CC75F9592DCA5428003543FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CC30337C2DCA4FD0001C6935 /* Build configuration list for PBXNativeTarget "Badging Project" */ = {
+		CC75F95A2DCA5428003543FA /* Build configuration list for PBXNativeTarget "IOSApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CC30337D2DCA4FD0001C6935 /* Debug */,
-				CC30337E2DCA4FD0001C6935 /* Release */,
+				CC75F95B2DCA5428003543FA /* Debug */,
+				CC75F95C2DCA5428003543FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CC30337F2DCA4FD0001C6935 /* Build configuration list for PBXNativeTarget "Badging ProjectTests" */ = {
+		CC75F95D2DCA5428003543FA /* Build configuration list for PBXNativeTarget "IOSAppTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CC3033802DCA4FD0001C6935 /* Debug */,
-				CC3033812DCA4FD0001C6935 /* Release */,
+				CC75F95E2DCA5428003543FA /* Debug */,
+				CC75F95F2DCA5428003543FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CC3033822DCA4FD0001C6935 /* Build configuration list for PBXNativeTarget "Badging ProjectUITests" */ = {
+		CC75F9602DCA5428003543FA /* Build configuration list for PBXNativeTarget "IOSAppUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				CC3033832DCA4FD0001C6935 /* Debug */,
-				CC3033842DCA4FD0001C6935 /* Release */,
+				CC75F9612DCA5428003543FA /* Debug */,
+				CC75F9622DCA5428003543FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = CC3033532DCA4FCE001C6935 /* Project object */;
+	rootObject = CC75F9312DCA5426003543FA /* Project object */;
 }
